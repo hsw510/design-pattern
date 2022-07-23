@@ -4,6 +4,11 @@ import java.io.*;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
+
+/**
+ * 싱글턴패턴 main
+ * https://www.notion.so/hsw510/333ae21e74c048878cf4597dfe8fc176
+ */
 public class App {
 
     public static void main(String[] args) throws IOException, NoSuchMethodException, InvocationTargetException, InstantiationException, IllegalAccessException, ClassNotFoundException {
